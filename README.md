@@ -63,12 +63,6 @@ A simple notes application built using JSP (JavaServer Pages) that allows users 
 - **Edit Note:** Click on the "Edit" link next to a note to modify its title and content.
 - **Delete Note:** Click on the "Delete" button next to a note to remove it.
 
-## Screenshots
-
-![Notes Display](screenshots/notes_display.png)
-![Add Note](screenshots/add_note.png)
-![Edit Note](screenshots/edit_note.png)
-
 ## Technologies Used
 
 - Java
