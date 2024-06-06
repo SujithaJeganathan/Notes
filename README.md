@@ -40,7 +40,7 @@ A simple notes application built using JSP (JavaServer Pages) that allows users 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/notes-app.git
+    https://github.com/SujithaJeganathan/Notes.git
     cd notes-app
     ```
 
